@@ -1,2 +1,0 @@
-# piology
-Pi/Microcontoller Snippets
